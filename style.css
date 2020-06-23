@@ -1,0 +1,247 @@
+.exp1{
+    height: 200px;
+    width: 100%;
+    border: 3px solid #FF8282;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-bottom: 10px;
+}
+.para1{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.exp2{
+    height: 200px;
+    width: 100%;
+    border: 3px solid #FF8282;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 10px;
+}
+.exp3{
+    height: 200px;
+    width: 100%;
+    border: 3px solid #FF8282;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.exp4{
+    width: 80%;
+    margin: 10px auto;
+    height: 600px;
+    background-color: #000000;
+    color: white;
+}
+.sub-div1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.sub-div2{
+    text-align: center;
+    font-size: 90px;
+    text-transform: uppercase;
+    font-family: arial;
+    padding: 1;
+    margin: 1;
+}
+.para2{
+    padding: 1px;
+    margin: 2px;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 100% 100%;
+}
+.sub-div3{
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.exp5{
+    width: 90%;
+    margin: 20px auto;
+    height: 150px;
+}
+.sub-div4{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: repeat-x;
+    float: left;
+    margin-right: 10px;
+}
+.sub-div5{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: repeat-y;
+    float: left;
+    margin-right: 10px;
+}
+.sub-div6{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: repeat;
+    float: left;
+    margin-right: 10px;
+    
+}
+.sub-div7{
+    height: 100%;
+    width: 25%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: space;
+    float: left;
+    
+}
+.sub-div8{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: round;
+    float: left;
+    margin-right: 10px;
+}
+.sub-div9{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px;
+}
+.sub-div10{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: space repeat;
+    float: left;
+    margin-right: 10px;
+}
+.sub-div11{
+    height: 100%;
+    width: 20%;
+    border: 1px solid black;
+    background-image: url(nature%20img.jpg);
+    background-repeat: round space;
+    float: left;
+    margin-right: 10px;
+}
+.exp6{
+    width: 90%;
+    margin: 20px auto;
+}
+.sub-div{
+    width: 25%;
+}
+.sub-div,ul{
+    list-style-type: none;
+    list-style-image: url(nature%20img4.jpg);
+}
+.exp7{
+    width: 98%;
+    margin: 50px auto;
+    height: 300px;
+}
+.sub-div13{
+    height: 98%;
+    width: 30%;
+    border: 15px dashed blue;
+    outline: 10px solid #00D100;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-color: #FF1900;
+    float: left;
+    margin-right: 40px;
+}
+.sub-div14{
+    height: 98%;
+    width: 30%;
+    border: 15px dashed blue;
+    outline: 10px solid #00D100;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-color: #FF1900;
+    float: left;
+    margin-right: 40px;
+}
+.sub-div15{
+    height: 98%;
+    width: 30%;
+    border: 15px dashed blue;
+    outline: 10px solid #00D100;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-color: #FF1900;
+    float: left;
+}
+.sub-div16{
+    height: 98%;
+    width: 30%;
+    background-color: #08D400;
+    float: left;
+    margin: 0 20px;
+}
+.s-div1{
+    height: 100%;
+    width: 100%;
+    border: 15px dashed #0000FF;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    outline: 15px solid #08D400;
+}
+.s-div2{
+    height: 100%;
+    width: 100%;
+    border: 15px dashed #0000FF;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    outline: 15px solid #08D400;
+}
+.s-div3{
+    height: 100%;
+    width: 100%;
+    border: 15px dashed #0000FF;
+    padding: 15px;
+    box-sizing: border-box;
+    background-image: url(nature%20img2.jpg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    outline: 15px solid #08D400;
+}
+
+
+
+
+
